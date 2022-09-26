@@ -3,7 +3,7 @@
 TwitterClone is a web application to make an application like twitter by Next.js, Sanity CMS, and Tailwind CSS.
 This application is developing and new updates will be uploaded soon.
 <hr>
-<img src="ScreenShot.png" width="48%" height="500" style="background-size: cover">
+<img src="ScreenShot.png" width="100%" height="500" style="background-size: cover">
 
 ## Install
 
