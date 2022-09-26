@@ -1,34 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About TwitterClone
+<hr>
+TwitterClone is a web application to make an application like twitter by Next.js, Sanity CMS, and Tailwind CSS.
+This application is developing and new updates will be uploaded soon.
+<hr>
+<img src="ScreenShot.png" width="48%" height="500" style="background-size: cover">
 
-## Getting Started
+## Install
 
-First, run the development server:
+###### To install the dependencies and start the app, run the following commands:
+## Using npm
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Run commands
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1) ```npm install```
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+2) ```npm run dev```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## Or using yarn
 
-To learn more about Next.js, take a look at the following resources:
+Run commands
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1) ```npm install --global yarn```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+2) ```yarn install```
 
-## Deploy on Vercel
+3) ```yarn run dev```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Help <hr>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Please post any questions as an email to [Amir haghighi](mailto:haghighi251@gmail.com).
+
+## TwitterClone Sponsors
+<hr>
+ If you are interested in becoming a sponsor, please send an email me. haghighi251@gmail.com
+
+## Contributing
+<hr>
+Thank you for considering contributing to the TwitterClone ! please send an email me. haghighi251@gmail.com.
+
+## Security Vulnerabilities
+<hr>
+If you discover a security vulnerability within TwitterClone, please send an e-mail to Amir haghighi via haghighi251@gmail.com.
+<br>All security vulnerabilities will be promptly addressed.
+
+## License
+<hr>
+The TwitterClone is open-sourced software licensed under the MIT license. You can see more info at hte link below:
+https://opensource.org/licenses/MIT
